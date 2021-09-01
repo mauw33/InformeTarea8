@@ -3,33 +3,56 @@
 ## DEBER CAPITULOS 15 y 16
 1. OBJETIVOS
 * 1.1. OBJETIVO GENERAL
-* Aprender el concepto y funcionamiento de inductancia y transistores desde el punto de vista eléctrico y su aplicación en circuitos. El conocimiento de los distintos métodos de resolución de los circuitos eléctricos con los elementos ya mencionados, así como el estudio de la relación existente entre todos y cada uno de los elementos del circuito.
+* Se aspira que al finalizar el deber que se adquiera y comprenda conocimientos de CA, Elementos R, L y C 
+* Adicionalmente se debe ser capaz de establecer las relaciones o interconexiones correspondientes entre los fundamentos teóricos establecidos en el curso y las aplicaciones en sus respectivas disciplinas.
 
 * 1.2. OBJETIVOS ESPECÍFICOS
-  *	Practicar los distintos métodos de resolución de circuitos.
-  *	Conocer el funcionamiento de los elementos eléctricos.
-  * Reconocer los elementos que conforman un circuito eléctrico.
-  * Comprender la teoría de cada fórmula para de inductancia. 
-
+  *	Introducir los concepto de CA, Elementos R, L y C 
+  * Analizar circuitos donde se use voltaje y corriente CA
+  *	Describir analítica y gráficamente el comportamiento de un circuito CA
 
 2. MARCO TEÓRICO (RESUMEN)
 
-![Screenshot]()
+![Screenshot](TAREA8/1.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 Resolución del capitulo 15 (ejercicios impares)
 
-![Screenshot]()
+![Screenshot](TAREA8/2.png)
+![Screenshot](TAREA8/3.png)
+![Screenshot](TAREA8/4.png)
+![Screenshot](TAREA8/5.png)
+![Screenshot](TAREA8/6.png)
+![Screenshot](TAREA8/7.png)
+![Screenshot](TAREA8/8.png)
+![Screenshot](TAREA8/9.png)
+![Screenshot](TAREA8/10.png)
+![Screenshot](TAREA8/11.png)
+![Screenshot](TAREA8/12.png)
+![Screenshot](TAREA8/13.png)
+![Screenshot](TAREA8/14.png)
+![Screenshot](TAREA8/15.png)
+![Screenshot](TAREA8/16.png)
 
 
 Resolución del capitulo 16 (ejercicios impares)
 
-
+![Screenshot](TAREA8/17.png)
+![Screenshot](TAREA8/18.png)
+![Screenshot](TAREA8/19.png)
+![Screenshot](TAREA8/20.png)
+![Screenshot](TAREA8/21.png)
+![Screenshot](TAREA8/22.png)
+![Screenshot](TAREA8/23.png)
+![Screenshot](TAREA8/24.png)
+![Screenshot](TAREA8/25.png)
+![Screenshot](TAREA8/26.png)
+![Screenshot](TAREA8/27.png)
 
 4. VIDEO
 
-
+https://www.youtube.com/watch?v=DQJTbkIJ1co
 
 5. CONCLUSIONES
 
